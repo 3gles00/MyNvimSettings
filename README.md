@@ -9,7 +9,7 @@ Installed Dependencies:\
     - Catpuccin Color Scheme\
     - Telescope\
     - Treesitter\
-    - Mason\§
+    - Mason
 
 The configuration is written in .lua. See the lua folder for specific configuartions installed.
 
