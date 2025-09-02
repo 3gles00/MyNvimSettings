@@ -5,11 +5,11 @@ If you want to follow along and understand the setup you can see the youtube wal
 
 This Configuration uses Lazyrock.
 
-Installed Dependencies:
-    - Catpuccin Color Scheme
-    - Telescope
-    - Treesitter
-    - Mason
+Installed Dependencies:\
+    - Catpuccin Color Scheme\
+    - Telescope\
+    - Treesitter\
+    - Mason\§
 
 The configuration is written in .lua. See the lua folder for specific configuartions installed.
 
