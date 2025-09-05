@@ -3,13 +3,20 @@ My Neovim setup based on typecrafts tutorial Neovim setup and can be seen [here]
 
 If you want to follow along and understand the setup you can see the youtube walkthrough [here](https://www.youtube.com/watch?v=zHTeCSVAFNY&list=PLsz00TDipIffreIaUNk64KxTIkQaGguqn)
 
-This Configuration uses Lazyrock.
+This Configuration uses Lazy.
+
+## Dependencies
 
 Installed Dependencies:\
+    - Autopairs
     - Catppuccin Color Scheme\
     - Telescope\
     - Treesitter\
-    - Mason
+    - Mason\
+    - Alpha\
+    - Lualine\
+    - Neo-tree\
+    
 
 The configuration is written in .lua. See the lua folder for specific configuartions installed.
 
