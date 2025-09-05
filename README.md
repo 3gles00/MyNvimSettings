@@ -6,7 +6,7 @@ If you want to follow along and understand the setup you can see the youtube wal
 This Configuration uses Lazyrock.
 
 Installed Dependencies:\
-    - Catpuccin Color Scheme\
+    - Catppuccin Color Scheme\
     - Telescope\
     - Treesitter\
     - Mason
